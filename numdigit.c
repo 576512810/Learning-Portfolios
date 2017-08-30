@@ -1,4 +1,4 @@
-/*计算整数位数*/
+/*璁＄畻鏁存暟浣嶆暟*/
 #include<stdio.h>
 int main(void)
 {
