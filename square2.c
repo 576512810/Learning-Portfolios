@@ -1,4 +1,4 @@
-/*ÏÔÊ¾Æ½·½Êý*/
+/*æ˜¾ç¤ºå¹³æ–¹æ•°*/
 
 #include <stdio.h>
  int mian(void)
