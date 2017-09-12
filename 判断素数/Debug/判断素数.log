@@ -1,0 +1,4 @@
+﻿  prime.c
+c:\users\asus1\desktop\learning-portfolios\判断素数\prime.c(27): warning C4013: “system”未定义；假设外部返回 int
+  判断素数.vcxproj -> C:\Users\asus1\Desktop\Learning-Portfolios\Debug\判断素数.exe
+  判断素数.vcxproj -> C:\Users\asus1\Desktop\Learning-Portfolios\Debug\判断素数.pdb (Partial PDB)

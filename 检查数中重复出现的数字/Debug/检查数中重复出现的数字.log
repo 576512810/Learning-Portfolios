@@ -1,0 +1,4 @@
+﻿  repdigit.c
+c:\users\asus1\desktop\learning-portfolios\检查数中重复出现的数字\repdigit.c(27): warning C4013: “system”未定义；假设外部返回 int
+  检查数中重复出现的数字.vcxproj -> C:\Users\asus1\Desktop\Learning-Portfolios\Debug\检查数中重复出现的数字.exe
+  检查数中重复出现的数字.vcxproj -> C:\Users\asus1\Desktop\Learning-Portfolios\Debug\检查数中重复出现的数字.pdb (Partial PDB)

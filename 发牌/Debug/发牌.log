@@ -1,0 +1,4 @@
+﻿  deal.c
+c:\users\asus1\desktop\learning-portfolios\发牌\deal.c(15): warning C4305: “初始化”: 从“int”到“const char”截断
+  发牌.vcxproj -> C:\Users\asus1\Desktop\Learning-Portfolios\Debug\发牌.exe
+  发牌.vcxproj -> C:\Users\asus1\Desktop\Learning-Portfolios\Debug\发牌.pdb (Partial PDB)
