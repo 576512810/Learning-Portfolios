@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "发牌", "发牌\发牌.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "判断素数", "判断素数\判断素数.vcxproj", "{0E65A662-91BF-4B46-A250-7F018EEE5950}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "快速排序", "快速排序\快速排序.vcxproj", "{E48FD3AB-524A-46F4-922B-E224F4CA5E4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{0E65A662-91BF-4B46-A250-7F018EEE5950}.Release|x64.Build.0 = Release|x64
 		{0E65A662-91BF-4B46-A250-7F018EEE5950}.Release|x86.ActiveCfg = Release|Win32
 		{0E65A662-91BF-4B46-A250-7F018EEE5950}.Release|x86.Build.0 = Release|Win32
+		{E48FD3AB-524A-46F4-922B-E224F4CA5E4E}.Debug|x64.ActiveCfg = Debug|x64
+		{E48FD3AB-524A-46F4-922B-E224F4CA5E4E}.Debug|x64.Build.0 = Debug|x64
+		{E48FD3AB-524A-46F4-922B-E224F4CA5E4E}.Debug|x86.ActiveCfg = Debug|Win32
+		{E48FD3AB-524A-46F4-922B-E224F4CA5E4E}.Debug|x86.Build.0 = Debug|Win32
+		{E48FD3AB-524A-46F4-922B-E224F4CA5E4E}.Release|x64.ActiveCfg = Release|x64
+		{E48FD3AB-524A-46F4-922B-E224F4CA5E4E}.Release|x64.Build.0 = Release|x64
+		{E48FD3AB-524A-46F4-922B-E224F4CA5E4E}.Release|x86.ActiveCfg = Release|Win32
+		{E48FD3AB-524A-46F4-922B-E224F4CA5E4E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

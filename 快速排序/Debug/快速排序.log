@@ -1,0 +1,4 @@
+﻿  qsout.c
+f:\learning-portfolios\快速排序\qsout.c(24): warning C4013: “system”未定义；假设外部返回 int
+  快速排序.vcxproj -> F:\Learning-Portfolios\Debug\快速排序.exe
+  快速排序.vcxproj -> F:\Learning-Portfolios\Debug\快速排序.pdb (Partial PDB)
